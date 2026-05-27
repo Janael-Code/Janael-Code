@@ -1,0 +1,74 @@
+<svg width="1100" height="520" viewBox="0 0 1100 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .pixel { font-family: "Courier New", monospace; }
+      .title { font-size: 34px; font-weight: 700; }
+      .label { font-size: 20px; font-weight: 700; letter-spacing: 1px; }
+      .sub { font-size: 16px; }
+    </style>
+    <g id="pokebadge">
+      <circle cx="0" cy="0" r="54" fill="#F8FAFC"/>
+      <circle cx="0" cy="0" r="46" fill="var(--badge-fill, #A78BFA)"/>
+      <circle cx="0" cy="0" r="18" fill="#0F172A"/>
+      <circle cx="0" cy="0" r="8" fill="#F8FAFC"/>
+      <path d="M-46 0H46" stroke="#0F172A" stroke-width="8"/>
+    </g>
+  </defs>
+
+  <rect width="1100" height="520" rx="28" fill="#111827"/>
+  <rect x="18" y="18" width="1064" height="484" rx="18" stroke="#A78BFA" stroke-opacity="0.35" stroke-width="3"/>
+  <text x="550" y="62" text-anchor="middle" class="pixel title" fill="#E9D5FF">INSIGNIAS CONQUISTADAS</text>
+  <text x="550" y="92" text-anchor="middle" class="pixel sub" fill="#C4B5FD">tecnologias, dados, integracoes e ferramentas de batalha</text>
+
+  <g transform="translate(120 180)">
+    <use href="#pokebadge" style="--badge-fill:#F97316"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">JAVA</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">backend</text>
+  </g>
+  <g transform="translate(310 180)">
+    <use href="#pokebadge" style="--badge-fill:#FACC15"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">JS</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">frontend</text>
+  </g>
+  <g transform="translate(500 180)">
+    <use href="#pokebadge" style="--badge-fill:#22C55E"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">NODE</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">apis</text>
+  </g>
+  <g transform="translate(690 180)">
+    <use href="#pokebadge" style="--badge-fill:#60A5FA"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">DOCK</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">devops</text>
+  </g>
+  <g transform="translate(880 180)">
+    <use href="#pokebadge" style="--badge-fill:#A78BFA"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">PHP</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">web</text>
+  </g>
+
+  <g transform="translate(120 360)">
+    <use href="#pokebadge" style="--badge-fill:#14B8A6"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">BI</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">insights</text>
+  </g>
+  <g transform="translate(310 360)">
+    <use href="#pokebadge" style="--badge-fill:#FB7185"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">DATA</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">dados</text>
+  </g>
+  <g transform="translate(500 360)">
+    <use href="#pokebadge" style="--badge-fill:#2DD4BF"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">TASY</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">saude</text>
+  </g>
+  <g transform="translate(690 360)">
+    <use href="#pokebadge" style="--badge-fill:#38BDF8"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">API</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">rest</text>
+  </g>
+  <g transform="translate(880 360)">
+    <use href="#pokebadge" style="--badge-fill:#34D399"/>
+    <text x="0" y="6" text-anchor="middle" class="pixel label" fill="#111827">SQL</text>
+    <text x="0" y="92" text-anchor="middle" class="pixel sub" fill="#E9D5FF">queries</text>
+  </g>
+</svg>
