@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=E9D5FF&background=1E1B4B&center=true&vCenter=true&width=1100&lines=INICIANDO+GAME+PROFILE...;CARREGANDO+INTEGRACOES+TASY...;CARREGANDO+JAVA+NODE+PHP+E+DADOS...;PRONTO+PARA+AUTOMATIZAR+E+OTIMIZAR" alt="typing intro" />
+  <img src="https://img.shields.io/badge/INTEGRACOES%20%7C%20AUTOMACAO%20%7C%20DADOS%20%7C%20TASY%20%7C%20APIs-2E1065?style=for-the-badge&labelColor=1E1B4B&color=A78BFA" alt="retro intro" />
 </div>
 
 <div align="center">
-  <img src="./assets/gameboy-showcase.svg" alt="Game Boy Showcase" width="620" />
+  <img src="https://raw.githubusercontent.com/Janael-Code/Janael-Code/main/assets/gameboy-showcase.svg" alt="Game Boy Showcase" width="620" />
 </div>
 
 ## Sobre mim
@@ -28,7 +28,7 @@ Trabalho construindo **APIs**, conectando sistemas, reduzindo tarefas manuais e 
 ## Insignias conquistadas
 
 <div align="center">
-  <img src="./assets/pokemon-tech-badges.svg" alt="Pokemon style tech badges" width="100%" />
+  <img src="https://raw.githubusercontent.com/Janael-Code/Janael-Code/main/assets/pokemon-tech-badges.svg" alt="Pokemon style tech badges" width="100%" />
 </div>
 
 ## Meu inventario de tecnologias
